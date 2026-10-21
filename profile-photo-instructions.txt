@@ -1,0 +1,1 @@
+Add your own photo by saving it as profile.jpg in this folder. The portfolio automatically shows it in the profile card. If the file is missing, the JSR initials placeholder appears. Use a photo you are comfortable sharing publicly.
