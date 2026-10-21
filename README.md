@@ -1,4 +1,4 @@
-# Jagrati Singh Rajput — Personalized Portfolio
+# Jagrati Singh Rajpoot — Personalized Portfolio
 
 ## Included
 - `index.html` — website
